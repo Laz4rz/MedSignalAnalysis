@@ -31,10 +31,10 @@ So we are on the same page with what we're looking at.
 **Result:**  Orbicularis  
 ![image](https://user-images.githubusercontent.com/62252332/121499657-e14ff080-c9dd-11eb-94ee-5c8f7e38aac9.png) 
 
-**Emotion: Anger**       
-**Procedure: Passive**
+**Emotion:** Anger       
+**Procedure:** Passive   
 **Expected most active muscles:** Orbicularis  
-**Result:**  Orbicularis  
+**Result:**  Orbicularis   
 ![image](https://user-images.githubusercontent.com/62252332/121500011-312eb780-c9de-11eb-9d72-213db6d4efb9.png)
 
 
