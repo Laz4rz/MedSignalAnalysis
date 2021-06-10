@@ -46,7 +46,7 @@ Only the final results are presented. Take a look into the .ipynb file for middl
 
 
 **Comparison of the original alerts (red zones) vs the detector indications (orange line)**  
-The detection algorithm looks at the signal movement between standard deviation levels. 
+The detection algorithm looks at the signal movement between standard deviation levels (dashed line). 
 ![image](https://user-images.githubusercontent.com/62252332/121518188-7bb92f80-c9f0-11eb-825c-57ac9d7a19f8.png)
 
 
