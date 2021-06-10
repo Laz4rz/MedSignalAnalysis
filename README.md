@@ -18,11 +18,11 @@ Only the final results are presented. Take a look into the .ipynb file for middl
 
 ### Face emotions
 EMG face recording for different emotions. The subject had to replicate emotions shown on screen (active procedure) or just look at them (passive procedure).   
-Only the final results are presented. Take a look into the .ipynb file for middle steps and code. 
+Only the final results are presented. Take a look into the .ipynb file for middle steps and code.   
 
 **Muscles of facial expression**
 So we are on the same page with what we're looking at.
-![image](https://user-images.githubusercontent.com/62252332/121500668-cf228200-c9de-11eb-9f4f-ae52127e913b.png)
+![image](https://user-images.githubusercontent.com/62252332/121500668-cf228200-c9de-11eb-9f4f-ae52127e913b.png)  
 
 **Emotion: Anger**     
 **Procedure: Active**  
