@@ -44,7 +44,7 @@ Only the final results are presented. Take a look into the .ipynb file for middl
 EMG hands recording for the vertical movement experiment. The subject had to rise his hand for the duration of the alert on screen (alert = tag).  
 Only the final results are presented. Take a look into the .ipynb file for middle steps and code.  
 
-**Comparison of the original alerts in red vs the detector indications - #0F0F0Forange line.**
+**Comparison of the original alerts in red vs the detector indications - <p color='orange'>orange line</p>.**
 ![image](https://user-images.githubusercontent.com/62252332/121516514-94c0e100-c9ee-11eb-8489-7cabbda68aa7.png)
 
 
