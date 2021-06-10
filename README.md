@@ -11,7 +11,7 @@ Only the final results are presented. Take a look into the .ipynb file for middl
 
 Number of books vs voltage average
 ![image](https://user-images.githubusercontent.com/62252332/121497665-f7f54800-c9db-11eb-9902-4483ba72ae41.png)
-Power spectrum for different number of books
+Power spectrum for 1, 2, 3, 4, 5 books
 ![image](https://user-images.githubusercontent.com/62252332/121497242-861cfe80-c9db-11eb-8f9e-408772ccee8e.png)
 
 
