@@ -6,7 +6,7 @@ This repository contains of notebooks I made to analyse signals registered durin
 
 ## Electromyography (EMG)
 ### Hands load spectrum
-EMG hands recording for book holding experiment. The subject had to hold up to 5 books.
+EMG hands recording for book holding experiment. The subject had to hold up to 5 books.  
 Only the final results are presented. Take a look into the .ipynb file for middle steps and code.  
 
 Number of books vs voltage average
@@ -16,7 +16,12 @@ Power spectrum for rising amount of books (1, 2,..., 5)
 
 
 ### Face emotions
-EMG face recording for different emotions. The subject had to replicate emotions shown on screen (active procedure) or just look at them (passive procedure). 
+EMG face recording for different emotions. The subject had to replicate emotions shown on screen (active procedure) or just look at them (passive procedure).   
 Only the final results are presented. Take a look into the .ipynb file for middle steps and code. 
+
+Emotion: Anger   
+Procedure: Active  
+![image](https://user-images.githubusercontent.com/62252332/121499657-e14ff080-c9dd-11eb-94ee-5c8f7e38aac9.png)
+
 
 
