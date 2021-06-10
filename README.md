@@ -19,11 +19,11 @@ Power spectrum for rising amount of books (1, 2,..., 5)
 EMG face recording for different emotions. The subject had to replicate emotions shown on screen (active procedure) or just look at them (passive procedure).   
 Only the final results are presented. Take a look into the .ipynb file for middle steps and code. 
 
-Emotion: Anger   
-Procedure: Active  
+**Emotion: Anger**     
+**Procedure: Active**  
 ![image](https://user-images.githubusercontent.com/62252332/121499657-e14ff080-c9dd-11eb-94ee-5c8f7e38aac9.png)  
-Emotion: Anger     
-Procedure: Active   
+**Emotion: Anger**       
+**Procedure: Passive**     
 ![image](https://user-images.githubusercontent.com/62252332/121500011-312eb780-c9de-11eb-9d72-213db6d4efb9.png)
 
 
