@@ -15,3 +15,8 @@ Power spectrum for rising amount of books (1, 2,..., 5)
 ![image](https://user-images.githubusercontent.com/62252332/121497242-861cfe80-c9db-11eb-8f9e-408772ccee8e.png)
 
 
+### Face emotions
+EMG face recording for different emotions. The subject had to replicate emotions shown on screen (active procedure) or just look at them (passive procedure). 
+Only the final results are presented. Take a look into the .ipynb file for middle steps and code. 
+
+
