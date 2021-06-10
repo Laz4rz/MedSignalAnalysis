@@ -1,7 +1,7 @@
 # Signal Analysis
 ## But what does this even mean?
 
-This repository contains of notebooks I made to analyse signals registered during various electro- medical examinations (eg. EKG, EMG, EOG, EEG). Each notebook is a solution to specific examination method related task on 2nd year Bioelectrical Signals class (Biomedical Physics, Neuroinformatics, Physics Department, University of Warsaw).
+This repository contains notebooks I made to analyse signals registered during various electro- medical examinations (eg. EKG, EMG, EOG, EEG). Each notebook is a solution to specific examination method related task on 2nd year Bioelectrical Signals class (Biomedical Physics, Neuroinformatics, Physics Department, University of Warsaw).
 
 
 ## Electromyography (EMG)
@@ -29,7 +29,7 @@ So we are on the same page with what we're looking at.
  ----
   
 ### Hands load spectrum
-EMG hands recording for book holding experiment. The subject had to hold up to 5 books.  
+EMG hands recording for the book holding experiment. The subject had to hold up to 5 books.  
 Only the final results are presented. Take a look into the .ipynb file for middle steps and code.  
 
 **Number of books vs voltage average**
@@ -37,7 +37,14 @@ Only the final results are presented. Take a look into the .ipynb file for middl
 
 **Power spectrum for rising amount of books (1, 2,..., 5)**
 ![image](https://user-images.githubusercontent.com/62252332/121497242-861cfe80-c9db-11eb-8f9e-408772ccee8e.png)
+  
+ ----
+  
+### Hands movement detector
+EMG hands recording for the vertical movement experiment. The subject had to rise his hand for the duration of the alert on screen (alert = tag).  
+Only the final results are presented. Take a look into the .ipynb file for middle steps and code.  
 
-
+**Comparison of the original alerts in red vs the detector indications <span style="color:blue">orange line</span>.**
+![image](https://user-images.githubusercontent.com/62252332/121516514-94c0e100-c9ee-11eb-8489-7cabbda68aa7.png)
 
 
