@@ -47,6 +47,6 @@ Only the final results are presented. Take a look into the .ipynb file for middl
 
 **Comparison of the original alerts (red zones) vs the detector indications (orange line)**  
 The detection algorithm looks at the signal movement between standard deviation levels. 
-![image](https://user-images.githubusercontent.com/62252332/121516514-94c0e100-c9ee-11eb-8489-7cabbda68aa7.png)
+![image](https://user-images.githubusercontent.com/62252332/121518188-7bb92f80-c9f0-11eb-825c-57ac9d7a19f8.png)
 
 
