@@ -5,9 +5,10 @@ This repository contains of notebooks I made to analyse signals registered durin
 
 
 ## Electromyography (EMG)
-# Hands load spectrum
+### Hands load spectrum
 Number of books vs voltage average
 ![image](https://user-images.githubusercontent.com/62252332/121495121-a2b83700-c9d9-11eb-8859-cd49b716bf4b.png)
 Power spectrum for different number of books
-![image](https://user-images.githubusercontent.com/62252332/121495296-ce3b2180-c9d9-11eb-8b44-180811e7967a.png)
+![pobrane (1)](https://user-images.githubusercontent.com/62252332/121495425-e6ab3c00-c9d9-11eb-9264-73ac4e4eb369.png)
+
 
