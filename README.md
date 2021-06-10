@@ -17,19 +17,24 @@ Only the final results are presented. Take a look into the .ipynb file for middl
 
 
 ### Face emotions
-EMG face recording for different emotions. The subject had to replicate emotions shown on screen (active procedure) or just look at them (passive procedure).   
+EMG face recording for different emotions. The subject had to replicate emotions shown on screen (active procedure) or just look at them (passive procedure). Whats important is: both procedures should have the same results, according to literature, the subject shouldn't have to conciously replicate the emotions in order for the muscles to activate.
 Only the final results are presented. Take a look into the .ipynb file for middle steps and code.   
+
 
 **Muscles of facial expression**  
 So we are on the same page with what we're looking at.  
 ![image](https://user-images.githubusercontent.com/62252332/121500668-cf228200-c9de-11eb-9f4f-ae52127e913b.png)  
 
-**Emotion: Anger**     
-**Procedure: Active**  
+**Emotion:** Anger       
+**Procedure:** Active   
+**Expected most active muscles:** Orbicularis  
+**Result:**  Orbicularis  
 ![image](https://user-images.githubusercontent.com/62252332/121499657-e14ff080-c9dd-11eb-94ee-5c8f7e38aac9.png) 
 
 **Emotion: Anger**       
-**Procedure: Passive**     
+**Procedure: Passive**
+**Expected most active muscles:** Orbicularis  
+**Result:**  Orbicularis  
 ![image](https://user-images.githubusercontent.com/62252332/121500011-312eb780-c9de-11eb-9d72-213db6d4efb9.png)
 
 
